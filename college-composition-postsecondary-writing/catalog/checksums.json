@@ -1,0 +1,22 @@
+{
+  ".gitattributes": "613f2c996ac75349a4a6633c4b81a75d436ef7b7fed323a5e1929f2ec5a8b1da",
+  ".github/workflows/validate.yml": "e0846a41eb3a3414c0516b18fcd9948b3b57c9ff62d8c8023126b0382e1d4d3c",
+  ".gitignore": "2aa07deaa03ee2e95303fba7ba2692db3cfbb491bdbdbeebd50f87efb75efe2a",
+  "agents/openai.yaml": "1af8881fcd8340a7d3594521b92a0bcd3e97f6b8333c7c587de421d1df26f2a9",
+  "catalog/finalization-report.json": "719144e8d32a9d64ac5f614aec2caec460a259c85519a80039159365ad925d2b",
+  "catalog/handoff-route-registry.json": "8178f513574990b64c1819398f86d7fafc1a94b9a7439a7579b262e50f4f2a66",
+  "catalog/private-v1-release-status.json": "ea4a7f998c38be735a353842f6a27232eea2845b2423fe75080ba9a70e5ee747",
+  "catalog/release-manifest.json": "ca75f281c6efc3454ccc02fd54c77db4596c5a9dc99bbcf73b70f96caf4a53f1",
+  "catalog/skill-catalog.json": "f4211108bffad6562a2dcb71df6d699e3e016fb4ab43c45e0b70fa34ceee459a",
+  "catalog/source-manifest.json": "a7959e0e6f615050e3cfe72b9641b08da3b1e4325a9a5321a6ba98d4bee8d302",
+  "README.md": "9570ad0b22d40bda3242dbef5835c0ba064091493d5bf3d751b3270d40f79617",
+  "references/construct-and-source-ledger.md": "598fc2c0222f4d3e49654ceb0375630ac73487000b1dd35a8f1dc857a2f3b4ac",
+  "references/evaluation-fixtures.json": "df9a68443cc7bee7905b44bcdf24178757420f5abb67df44bdf049081d2f4684",
+  "references/output-schema.json": "b610d8772317dcded262c35477b375d80400a0c5f4ba9679c5e7c8d672385bd5",
+  "scripts/build_release_manifest.py": "3095062c103bc8f3a481b78f800342f32f023b52499e98d10396e89bdd73b529",
+  "scripts/evaluate_package.py": "9356aaca0da247af8108c669f6e3793389f849f4b267559e6db09ba51a1106a3",
+  "scripts/validate_repository.py": "f129c4292cd15c540e3460f8cc0873e3c80c50ae2917d1a0ddcfd62cfea8539e",
+  "shared/schemas/interoperability-artifact-envelope.schema.json": "33be653aad470eec23b9858fa397c794cc11954fdc558d22631aa89635ba7139",
+  "SKILL.md": "461173333b85ac89760462215646c91ece30fc44e5fa4688489ac8502a41eeb9",
+  "tests/fixtures/representative-record.json": "09984bde6d3faae5f9cbdaab6124bd4afafe578efec432145e1421c69b3b89b3"
+}

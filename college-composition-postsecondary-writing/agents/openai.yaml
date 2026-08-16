@@ -1,0 +1,7 @@
+interface:
+  display_name: "College Composition"
+  short_description: "Compose, revise, and reflect in genre"
+  default_prompt: "Use $college-composition-postsecondary-writing to design or revise a situated college-composition task with source, process, accessibility, and authorship evidence."
+policy:
+  allow_implicit_invocation: true
+

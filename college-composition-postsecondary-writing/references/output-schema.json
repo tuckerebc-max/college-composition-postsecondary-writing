@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "College Composition Artifact",
+  "type": "object",
+  "required": ["artifact_id", "status", "rhetorical_contract", "source_and_claim_map", "revision_history", "authorship_and_ai_log", "next_action"],
+  "properties": {
+    "artifact_id": {"type": "string"}, "status": {"type": "string"}, "rhetorical_contract": {"type": "object"},
+    "source_and_claim_map": {"type": "array"}, "genre_plan": {"type": "object"}, "draft_or_revision": {"type": "string"},
+    "feedback_record": {"type": "array"}, "revision_history": {"type": "array"}, "accessibility_notes": {"type": "array"},
+    "authorship_and_ai_log": {"type": "array"}, "reflection": {"type": "string"}, "next_action": {"type": "string"}
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,10 @@
+{
+  "skill_id": "EXP-COMP",
+  "fixtures": [{
+    "id": "COMP-FIX-001",
+    "task": "Design a portfolio task requiring rhetorical analysis, evidence-based composition in a named genre, revision after feedback, an accessibility decision, and an authorship/AI reflection.",
+    "expected": ["rhetorical contract", "source/claim map", "genre fit", "revision evidence", "accessibility", "authorship reflection"],
+    "critical_failures": ["ghostwritten submission", "invented citation", "universal rubric claim", "process omitted", "accessibility ignored"]
+  }]
+}
+
